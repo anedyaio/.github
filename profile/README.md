@@ -1,2 +1,2 @@
 ![Anedya](https://cdn.anedya.io/anedya_black_banner.png)
-An Easy, Scalable, Secure & Reliable IoT Cloud. Connect devices at Scale with Anedya Cloud. Connect & Manage devices at scale easily!
+Anedya offers a cloud-based platform as a service (PaaS) for IoT applications.  Anedya covers all the aspects which includes Device Lifecycle management, storage of data, alerts and data aggregation in a single platform. Anedya makes it easy to integrate your IoT hardware with the server and removes the burden of IoT cloud infrastructure development and management.
